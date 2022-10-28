@@ -1,7 +1,7 @@
 
 # Orbital Evolution of Extreme Mass Ratio Binaries
 
-A simple program that calculates and plots the orbital evolution of extreme mass ratio binaries in stationary and axisymmetric spacetimes, according to Einstein's general theory of relativty.
+A simple program that calculates and plots the orbital evolution of extreme mass ratio binaries in stationary and axisymmetric spacetimes, according to Einstein's general theory of relativity.
 
 ## Theoretical Knowledge
 
@@ -51,11 +51,11 @@ pip install -r requirements.txt
 ```
 ## Output 
 
-The 3D plot of the orbital evolution is saved in the `output` directory as an `HTML` file 
+The 3D plot of the orbital evolution will be saved in the `output` directory as an `HTML` file 
 
 ## Examples
 
-Orbital evolution in the the following spacetimes are provided in the `example` directory:
+Orbital evolution associated with the following spacetimes are provided in the `example-plots` directory:
 
 * Schwarzschild spacetime
 * Kerr spacetime
