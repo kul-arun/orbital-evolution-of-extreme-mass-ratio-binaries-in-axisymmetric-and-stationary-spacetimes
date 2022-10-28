@@ -1,4 +1,3 @@
-
 # Orbital Evolution of Extreme Mass Ratio Binaries
 
 A simple program that calculates and plots the orbital evolution of extreme mass ratio binaries in stationary and axisymmetric spacetimes, according to Einstein's general theory of relativity.
@@ -26,14 +25,14 @@ python3 -m venv orbital-evolution
 Activate the virtual environment with:
 ```
 source <virtual-environment-name>/bin/activate
-``` 
+```
 
 The virtual environment can be deactivated with:
 ```
 deactivate
 ```
 
-* **Jupyter Notebook** 
+* **Jupyter Notebook**
 
 Install Jupyter Notebook with:
 ```
@@ -49,9 +48,9 @@ Install the necessary packages listed in `requirements.txt` with:
 ```
 pip install -r requirements.txt
 ```
-## Output 
+## Output
 
-The 3D plot of the orbital evolution will be saved in the `output` directory as an `HTML` file 
+The 3D plot of the orbital evolution will be saved in the `output` directory as an `HTML` file.
 
 ## Examples
 
